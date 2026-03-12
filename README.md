@@ -233,7 +233,7 @@ The dashboards include multiple visualization types:
 
 # 📸 Dashboard Preview
 
-(Add screenshots from Tableau)
+https://github.com/user-attachments/assets/5a19e27f-1247-4386-94c7-514e7036a7c4
 
 
 Some insights derived from the analysis:
